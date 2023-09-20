@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack engineer</h3>
 <img align="right" alt="Girl Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently looking for my next professional opportunity in the San Francisco Bay Area
+- 🔭 I’m currently looking for my **next professional opportunity** in the **San Francisco Bay Area**
 
 - 👯 I’m working on an open source project **at Hack for LA**
 
